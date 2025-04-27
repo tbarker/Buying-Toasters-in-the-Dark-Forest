@@ -1,0 +1,27 @@
+{
+  "language": "en-GB",
+  "rules": [
+    {
+      "name": "British English Spelling",
+      "description": "Use British English spelling conventions throughout the project",
+      "examples": {
+        "decentralized": "decentralised",
+        "organization": "organisation",
+        "color": "colour",
+        "center": "centre",
+        "meter": "metre",
+        "humor": "humour",
+        "labor": "labour",
+        "dialog": "dialogue",
+        "signaling": "signalling", 
+        "analyze": "analyse",
+        "modeling": "modelling",
+        "analog": "analogue",
+        "paralyze": "paralyse",
+        "organize": "organise",
+        "amortize": "amortise",
+        "parameters": "parametres"
+      }
+    }
+  ]
+} 
