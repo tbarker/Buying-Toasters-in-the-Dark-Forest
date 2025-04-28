@@ -1,25 +1,77 @@
-No one will buy a toaster in the dark forest. There is no crypto law; it’s a nonsense. Order emerges from the human play instincts, and we have to build regtech from gametech. It’s all the same thing.
+No one will buy a toaster in the dark forest. There is no crypto law; it's a nonsense. Order emerges from the human play instincts, and we have to build regtech from gametech. It's all the same thing. 1/20
 
-This is thread version of an 8000 (!) word essay I’ve been preparing for over a year. And frankly none of you are likely to read it, so it’s staying as a rough draft for now 🙂
+[Kitten plays ancient Mayan ball game for his life.]
+
+In short... 2/20
+[Pratchett quote]
+
+And... 3/20
+[Homo Ludens quote]
+
+This is thread version of an 5000+ (‼) word essay I've been preparing for over a year. And frankly none of you are likely to read it, so it's staying as a rough draft for now 🙂 4/20
 
 -
-Here’s a link if you care. I’m actually very happy with it so far. Comments and suggestions welcome!
+Here's a link if you care. I'm actually very happy with it so far. Comments and suggestions welcome! I'll finish it when I have the time and audience to make it worthwhile.
 
-Now let’s begin the thread where I surface a few ideas and invent a few terms 🧵 …
+Now let's begin the thread where I surface a few ideas and invent a few terms 🧵 … 5/20
 -
 
-Human social structures, legal systems to markets, are formalised play where players accept certain rules and consequences. Serious consequences must sanctified. Otherwise there's no difference between a Model UN or a murder trial. The murder trial is a “sacred game". Like a wedding.
+Human social structures, legal to markets, are formalised play where players accept certain rules and consequences. Serious consequences must sanctified. Otherwise there's no difference between a Model UN or a murder trial. The murder trial is a "sacred game". Like a wedding. 6/20
 
-People have committed far worse transgressions than the average DeFi hacker within EVE Online and other MMORGs, but we never prosecute them. For some reason, Pancake tokens and FartCoin, are "real", but ISK in-game currency isn't.
+[Kitten sits at a judges bench in a wedding dress. A man in a clown costume sits in the dock.]
 
-But even if the legal system occasionally intrudes, the "Dark Forest" nature of crypto creates an environment where actions have unpredictable consequences, rules are opaque, and players do not agree on what is fair.
+People with far worse transgressions than the average DeFi hacker within EVE Online and other MMORGs are never prosecuted. "We" have decided Pancake tokens and FartCoin, are "real", but ISK in-game currency isn't. What is "real"? Who are "we"? 7/20
 
-Property rights cannot exist in feral crypto as they require social consensus and enforcement. With fair sanctified games, crypto can support only possession, not true property which comes from title.
+[Kitten holds his head in his hands surrounded by floating question marks.]
 
-High transaction costs and uncertainty in crypto make it unsuitable for most legitimate commercial purposes. The "full round-trip cost" from real-world value to crypto and back outweighs potential benefits.
+Even if the legal system occasionally intrudes, the "Dark Forest" nature of crypto creates an environment where actions have unpredictable consequences, rules are opaque, and players do not agree on what is fair. We are not we. Real is not real. The toaster is too hard to buy. 8/20
 
-Creating useful "autonomous worlds" in crypto, requires our games to be structured with clean boundaries, consistent enforcement, and appropriate embedding within wider social contexts.
+[Kitten is fully decked up as Rambo. His face is scared and bloodied. He holds a simple bread toaster above his head in triumph and he smilies like a maniac.]
 
-The worlds, or Realms, need 
+Property rights cannot exist in feral crypto as they require we have social consensus and enforcement to make it real. Without fair sanctified games, crypto can support only possession, not true property which comes from title. 9/20
 
-Those words need to have Borders, 
+[Kitten wears a grey business suit and holds up a property title to a house with a red wax seal on it.]
+
+High transaction costs and uncertainty in crypto make it unsuitable for most legitimate commercial purposes. The "full round-trip cost" from real-world value to crypto and back outweighs potential benefits. No one will buy a toaster in the dark forest. 10/20
+
+[Kitten chases a toaster through a Escher-like maze of distorted perception and danger.]
+
+Casinos (and worse) can tolerate 10%+ round-trip costs. They also "pollute" our crypto commons which is only presently bounded by fiat ramps. This leaves us with a classic behavioural sink. 11/20
+
+[Kitten sits in front of a PC screen showing an online casino. One of his teeth is missing. He hasn't slept for days. There is a half empty bottle of vodka near him. He is crying.]
+
+-
+We can see how Web2 platforms evolved to avoid their behavioural sinks evolving from utopian universal trust to reputation systems to private jurisdictions reminiscent of medieval market courts. 
+
+informal trust → formal rules → bargaining with state enforcement. 12/20
+-
+
+[Show kitten evolving from a fish to a man in a business suit in 6 evolutionary stages.]
+
+eBay/Amazon created internal legal systems handling more disputes than many courts. Complete with service providers and trade publications. Silk Road descended into violence despite, or because of, libertarian ideals. 13/20
+
+[Stick in the Amazon law books.]
+
+Useful "autonomous worlds" in crypto, require our games to be structured with clean boundaries, consistent enforcement, and appropriate embedding within wider social structures. 14/20
+
+These worlds, or Realms, need borders with Gates [on-ramps], Rails [smart contracts] for automatic rules (or the physics), and Jurisdiction where those Rails channel decisions to human judgement. Ex. L2 Security Councils. 15/20
+
+It is not a coincidence that the successful uses, token speculation and remittances, have not needed any Gates aside for fiat ramps, or governance outside of Rails, as speculation is amoral (not immoral 🙂) and remittances are p2p within existing relationships. 16/20
+
+-
+There are various ways we can implement useful spaces for human action in Web3, ex. L2s with special rules, smart contract forcing whitelists, etc, but my main insight is that they will come from GameFi. 
+
+LegalTech === GameFi + Enforcement 17/20
+-
+
+[Show a roulette wheel with stock market imagery in the background.]
+
+If we're to escape our present behavioural sink, we need to learn to create *inter-locking* autonomous words out of Web3 gaming tech that are fair and consistent enough to be enforced by men with clubs. Or at the very least to agree who won an election or whether the moon landing happened 🙂 18/20
+
+[Show many kittens building a tennis court.]
+
+We have nothing to loose and a million worlds to win 🦾 💪 19/20
+
+[Ilya Prigogine quote as an image]
+
+According to Claude, the tweets capture the main narrative and some key conclusions, but omit most of the historical, economic, and technical detail, as well as the philosophical and legal context. So see my 65% finished essay for more details and interesting quotes and references! 20/20
